@@ -18,11 +18,15 @@ Or... what tools/editors/package managers we do<br>(or could) support for **[Art
 ## 💻 Editor / Syntax Highlighting
 
 - [x] [**VSCode**](https://marketplace.visualstudio.com/items?itemName=drkameleon.arturo) - Windows / macOS / Linux
+- [x] [**SublimeText**](https://packagecontrol.io/packages/Arturo%20Programming%20Language) - Windows / macOS / Linux
+- [x] [**Vim/NeoVim**](https://github.com/xigoi/vim-arturo) - Windows / macOS / Linux
 
 
 ## 📦 Package Managers
 
 - [x] [**Homebrew**](https://formulae.brew.sh/formula/arturo) - macOS / Linux
+- [ ] **Ubuntu Packages** - Linux
+- [ ] **Chocolatey** - Windows
 
 ## 🌀 Code Counters
 
